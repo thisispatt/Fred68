@@ -1,0 +1,6 @@
+{
+  "name": "F1 Grid Planner",
+  "description": "An elegant Formula 1 drag-and-drop strategy coordinator spanning 20 columns across 7 rows down to schedule and plan lineups, teams, and drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
